@@ -19,7 +19,7 @@ http.createServer(function(req, res) {
   function writeUsage(res) {
     res.writeHead(200, {
       'Content-Type' : "text/plain",
-    'Access-Control-Allow-Origin': '*centerpointenergy*force.com*'
+    'Access-Control-Allow-Origin': '*'
     });
     res.write("JSON-P PROXY\n\n");
     res.write("Usage:\n");
