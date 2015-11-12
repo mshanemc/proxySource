@@ -1,0 +1,6 @@
+{
+  "name": "node-jsonp-proxy",
+  "description": "jsonp proxy",
+  "repository": "https://github.com/trcyphm/proxySource",
+  "keywords": ["node", "jsonp", "proxy"]
+}
